@@ -9,13 +9,13 @@ O projeto Flexbox é um site de hospedagem da empresa HDC Host, desenvolvido com
     <br />
   </p>
   <p><b>Versão Web</p>
-  <img src="./src/images/web.gif" alt="Gif da tela da Agência XYZ versão web">
+  <img src="./img/web.gif" alt="Gif da tela da hDC Host versão web">
    <br />
    <br />
    <br />
    <br />
    <p><b>Versão Mobile</p>
-  <img src="./src/images/mobile.gif" alt="Gif da tela da Agência XYZ versão mobile" width="400" height="500" >
+  <img src="./img/mobile.gif" alt="Gif da tela da hDC Host versão mobile" width="320" height="500" >
 </div>
 <br />
 <br />
