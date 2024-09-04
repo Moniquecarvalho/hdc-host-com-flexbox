@@ -4,7 +4,7 @@
 
   <p align="center">
 O projeto Flexbox é um site de hospedagem da empresa HDC Host, desenvolvido com HTML e CSS avançado, utilizando a tecnologia Flexbox para criar um layout flexível e responsivo. O site destaca os diferenciais da empresa, como segurança, velocidade e suporte, apresentando de forma clara os planos de hospedagem, incluindo servidor compartilhado, dedicado e cloud, com suas respectivas vantagens. Além disso, integra um formulário de contato e um serviço de registro de domínios, proporcionando uma experiência de usuário intuitiva e atraente. O resultado final é um site moderno que reflete a excelência da HDC Host.    <br />
-    <a href="https://moniquecarvalho.github.io/landing-page-com-grid/"><strong>Visualizar o projeto »</strong></a>
+    <a href="https://moniquecarvalho.github.io/hdc-host-com-flexbox"><strong>Visualizar o projeto »</strong></a>
     <br />
     <br />
   </p>
